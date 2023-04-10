@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aryannov25/aryannov25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi 👋, I'm Aryan Chaudhary
+
+🔭 I’m currently working on Hunger Wheel
+
+🌱 I’m currently learning ReactJS
+
+📫 How to reach me aryannov25@gmail.com
+
+📄 Know about my experiences https://drive.google.com/file/d/1K1VjLFhwEWxQBpgu3xY9stXWsKCBFZuz/view?usp=sharing
+
+Connect with me:
+https://www.linkedin.com/in/aryan-chaudhary-133855230/
