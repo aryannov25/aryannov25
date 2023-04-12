@@ -26,5 +26,5 @@ Hi 👋, I'm Aryan Chaudhary
 
 📄 Know about my experiences https://drive.google.com/file/d/1K1VjLFhwEWxQBpgu3xY9stXWsKCBFZuz/view?usp=sharing
 
-Connect with me: [![linkedin](https://www.pinclipart.com/picdir/middle/97-971470_linkedin-linkedin-social-media-icons-clipart.png)]
+Connect with me: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/in/aryan-chaudhary-133855230/)
