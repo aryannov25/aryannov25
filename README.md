@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 Hi 👋, I'm Aryan Chaudhary
 
-🔭 I’m currently working on  **[Hunger Wheel](https://food-delivering-app.netlify.app/)**
+🔭 I’m currently working on some Projects.
+<!--**[Hunger Wheel](https://food-delivering-app.netlify.app/)**-->
 
 🌱 I’m currently learning ReactJS
 
