@@ -25,6 +25,6 @@ Hi 👋, I'm Aryan Chaudhary
 
 📫 How to reach me aryannov25@gmail.com
 
-📄 Know about my **[Experiences](https://drive.google.com/file/d/1K1VjLFhwEWxQBpgu3xY9stXWsKCBFZuz/view?usp=sharing)**
+📄 Know about my **[Experiences](https://drive.google.com/file/d/1wFMyMfglai5wXLOaTYapBR26vBxDHND9/view?usp=drive_link)**
 
 Connect with me: https://www.linkedin.com/in/aryan-chaudhary-133855230/
