@@ -23,6 +23,8 @@ Hi 👋, I'm Aryan Chaudhary
 
 🌱 I’m currently learning ReactJS
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryannov25)](https://git.io/streak-stats)
+
 📫 How to reach me aryannov25@gmail.com
 
 📄 Know about my **[Experiences](https://drive.google.com/file/d/1wFMyMfglai5wXLOaTYapBR26vBxDHND9/view?usp=drive_link)**
