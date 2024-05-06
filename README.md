@@ -25,7 +25,7 @@ Hi 👋, I'm Aryan Chaudhary
 
 🔥 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryannov25&theme=dark&hide_border=true)]
+![GitHub Streak](https://streak-stats.demolab.com?user=aryannov25&theme=dark&hide_border=true)
 
 📫 How to reach me aryannov25@gmail.com
 
