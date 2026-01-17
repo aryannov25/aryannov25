@@ -1,5 +1,3 @@
-
-🔭 I’m currently working on some Projects.
 # 💫 About Me:
 Hi 👋, I'm Aryan Chaudhary<br>I’m currently working at Rumik AI
 
